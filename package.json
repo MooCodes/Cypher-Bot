@@ -1,0 +1,19 @@
+{
+  "name": "cypher_bot_v1.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Baig",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "get-audio-duration": "^1.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "word-list-json": "^0.2.0",
+    "ytdl-core": "^0.28.3"
+  }
+}
